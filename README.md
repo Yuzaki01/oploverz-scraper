@@ -6,8 +6,8 @@
 | 1 | Homepage | ❌ | Info pembaruan anime |
 | 2 | GenreSearch | ✔ | Mencari anime melalui genre | 
 | 3 | Search | ✔ | Mencari anime |
-| 5 | Popular | ❌ | List Anime-anime dengan rating yang tinggi |
-| 6 | Season | ✔ | Mencari anime melalui nama musim |
+| 4 | Popular | ❌ | List Anime-anime dengan rating yang tinggi |
+| 5 | Season | ✔ | Mencari anime melalui nama musim |
 
 ## **Usage**
 ```
