@@ -1,4 +1,4 @@
-# Oploverz Rest API Made by Yuzaki
+# Unofficial Oploverz API Made by Yuzaki
 [`Oploverz Official Website`](https://oploverz.bz)
 ## **Documentation**
 | No | Features | Query | Description |
