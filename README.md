@@ -50,7 +50,7 @@ const api = require('oploverz-scraper');
       "musim": "Summer 2014",
       "tipe": "TV",
       "jumlahEps": "11",
-      "pembaruanTerakhir": "Dirilis pada: Desember 16, 2020",
+      "pembaruanTerakhir": "Desember 16, 2020",
       "genres": ["Mystery", "Psychological", "Thriller"],
       "rating": "8.13",
       "sinopsis": "Dalam versi alternatif masa kini, Tokyo telah hancur oleh serangan teroris yang mengejutkan, dan satu-satunya petunjuk mengenai identitas pelakunya adalah video aneh yang diunggah ke internet. Polisi bingung dengan petunjuk yang masih samar ini, dan tak berdaya menghentikan paranoia (ketakutan berlebihan) yang menyebar pada seluruh penduduk. Sementara itu, saat dunia mencari dalang kriminal yang harus bertanggung jawab atas tragedi ini, dua anak misterius yang seharusnya tak pernah ada, memiliki keahlian dalam melaksanakan rencana keji mereka. Perbuatan yang dikutuk oleh dunia ini dan mereka menyebut diri mereka Nine dan Twelve, dua orang tersebut bergabung  membentuk “Sphinx,” kegelapan  untuk membangunkan orang-orang dari tidur mereka 
