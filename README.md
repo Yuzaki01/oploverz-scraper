@@ -9,10 +9,11 @@
 | 4 | Popular | ❌ | List Anime-anime dengan rating yang tinggi |
 | 5 | Season | ✔ | Mencari anime melalui nama musim |
 
-## **Usage**
+## **Installation**
 ```
 $ npm i oploverz-scraper
 ```
+## **Usage**
 #### **Code Example ~ Tanpa Query**
 ```js
 const api = require('oploverz-scraper');
