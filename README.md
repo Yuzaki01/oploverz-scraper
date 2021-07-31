@@ -61,6 +61,9 @@ dan menarik ancaman pada dunia ini.",
   ]
 }
 ```
+
+##### _*Note: API hanya bekerja pada server asia saja._
+
 ## License
 ### [`MIT`](https://github.com/Yuzaki01/oploverz-scraper/blob/main/LICENSE)
 ## **Terima kasih telah berkunjung!**
