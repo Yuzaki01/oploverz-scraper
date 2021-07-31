@@ -8,6 +8,7 @@
 | 3 | Search | ✔ | Mencari anime |
 | 4 | Popular | ❌ | List Anime-anime dengan rating yang tinggi |
 | 5 | Season | ✔ | Mencari anime melalui nama musim |
+| 6 | Movie | ❌ | List anime movie terbaru hingga terlama |
 
 ## **Installation**
 ```
@@ -62,7 +63,7 @@ dan menarik ancaman pada dunia ini.",
 }
 ```
 
-##### _*Note: API hanya bekerja pada server asia saja._
+> ##### _*Note: API hanya bekerja pada server asia saja._
 
 ## License
 ### [`MIT`](https://github.com/Yuzaki01/oploverz-scraper/blob/main/LICENSE)
