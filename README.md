@@ -1,5 +1,9 @@
 # Unofficial Oploverz API Made by Yuzaki
 [`Oploverz Official Website`](https://oploverz.bz)
+## **Installation**
+```
+$ npm i oploverz-scraper
+```
 ## **Documentation**
 | No | Features | Query | Description |
 | :---: | ------ | :------: | :--------: |
@@ -10,10 +14,6 @@
 | 5 | Season | ✔ | Mencari anime melalui nama musim |
 | 6 | Movie | ❌ | List anime movie terbaru hingga terlama |
 
-## **Installation**
-```
-$ npm i oploverz-scraper
-```
 ## **Usage**
 #### **Code Example ~ Tanpa Query**
 ```js
