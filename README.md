@@ -8,10 +8,10 @@ $ npm i oploverz-scraper
 | No | Features | Query | Description |
 | :---: | ------ | :------: | :--------: |
 | 1 | Homepage | ❌ | Info pembaruan anime |
-| 2 | GenreSearch | ✔ | Mencari anime melalui genre | 
+| 2 | GenreSearch | ✔ | Mencari anime berdasarkan genre | 
 | 3 | Search | ✔ | Mencari anime |
 | 4 | Popular | ❌ | List Anime-anime dengan rating yang tinggi |
-| 5 | Season | ✔ | Mencari anime melalui nama musim |
+| 5 | Season | ✔ | Mencari anime berdasarkan nama musim |
 | 6 | Movie | ❌ | List anime movie terbaru hingga terlama |
 
 ## **Usage**
